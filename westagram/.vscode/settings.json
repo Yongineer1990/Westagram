@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/yong_macbook/miniconda3/envs/westagram/bin/python",
+    "python.linting.pylintArgs": ["--load-plugins=pylint_django"]
+}
